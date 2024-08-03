@@ -31,3 +31,18 @@ The application is built with a focus on security, reliability, and ease of use.
   - Miro    - Problem statement, solution, sketching, user persona, competitor analysis, information architecture.
   - penpot  - Low and high fidelity.
   - Figma   - Design and prototype.
+
+  - 
+
+
+https://github.com/user-attachments/assets/4116b09c-7b14-4985-a748-5bd32c309e35
+
+
+https://github.com/user-attachments/assets/460ae6f4-3277-4305-be39-fd778cdd8936
+
+
+https://github.com/user-attachments/assets/b8a6fa4f-e983-4085-9439-57a3e84989f6
+
+
+https://github.com/user-attachments/assets/2f2a5905-4474-4ac0-bef1-d31a68f2652f
+
